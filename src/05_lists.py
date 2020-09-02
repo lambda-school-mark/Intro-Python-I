@@ -20,6 +20,7 @@ print(x + y)
 added = x+y
 del added[4]
 print(added)
+# extend also build in
 
 # Change x so that it is [1, 2, 3, 4, 9, 99, 10]
 # YOUR CODE HERE
